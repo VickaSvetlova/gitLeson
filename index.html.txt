@@ -1,0 +1,4 @@
+class Lib{
+lib(12);
+lib(15);
+}
